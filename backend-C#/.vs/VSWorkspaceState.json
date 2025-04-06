@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EmployeeManagement",
+    "\\EmployeeManagement\\Controllers",
+    "\\EmployeeManagement\\Data",
+    "\\EmployeeManagement\\Models",
+    "\\EmployeeManagement\\Properties",
+    "\\EmployeeManagement\\Repositories"
+  ],
+  "SelectedNode": "\\EmployeeManagement\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
